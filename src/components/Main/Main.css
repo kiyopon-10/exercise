@@ -1,0 +1,9 @@
+.main{
+    position: relative;
+    top: 2.5vh;
+    left: 0.8vw;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    /* background-color: aquamarine; */
+}

@@ -1,0 +1,19 @@
+.navbar-main{
+    background-color: #051342;
+    height: 10vh;
+}
+
+.right p{
+    color: white;
+    padding-inline: 2vw;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    /* font-size: 36px; */
+}
+
+.button p{
+    padding-inline: 2vw;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+}

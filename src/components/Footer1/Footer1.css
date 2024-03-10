@@ -1,0 +1,55 @@
+.footer1 {
+    position: relative;
+    top: 176vh;
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.header2 {
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #233470;
+    font-size: 32px;
+}
+
+.each {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    position: relative;
+    top: -19vh;
+    left: 14vw;
+    text-align: center;
+    color: #233470;
+}
+
+.each h3{
+    font-weight: 600;
+    font-size: 19px;
+    margin-top: 7vh;
+}
+
+.each p{
+    font-weight: 400;
+    font-size: 18px;
+    max-width: 250px;
+}
+
+.each a{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+form {
+    color: #75787b;
+
+}
+
+::placeholder {
+    position: relative;
+    left: 1vw;
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+}

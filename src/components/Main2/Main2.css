@@ -1,0 +1,65 @@
+.main2{
+    height: 100vh;
+    position: relative;
+    top: 129vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header_each p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding-inline: 0.5rem;
+}
+
+.header2{
+    position: relative;
+    top: 15vh;
+    left: -1vw;
+}
+
+.heading {
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-size: 40px;
+    font-style: normal;
+    color: #233470;
+}
+
+.heading-text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    font-style: normal;
+    color: #233470;
+}
+
+.four {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: #233470;
+}
+
+.four-text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #233470;
+}
+
+.last-text h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #233470;
+    margin-bottom: -2vh;
+}
+
+.last-text p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
